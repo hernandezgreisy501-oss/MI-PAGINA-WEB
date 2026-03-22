@@ -1,2 +1,15 @@
-# MI-PAGINA-WEB
-GREYSS
+<!DOCTYPE html>
+html lang="en">
+<head>
+<meta charset+"UTF-8">
+<meta name="viewport" content="width=, initial-scale=1.0">
+<title>Document</title>
+<link rel=" stylesheet" href="styles.css"
+</head>
+<body>
+<h1> Mi pagina web </h1>
+<h2> bienvenido a mi pagina web</h2>
+<p> subire mi pagina web en github</p>
+</body.
+</html>
+
