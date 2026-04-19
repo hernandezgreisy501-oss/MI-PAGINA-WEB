@@ -1,0 +1,28 @@
+!Doctype hmtl>
+
+<html>
+
+<h2>Cosas que me gustan hacer y mis comidas favoritas </h2>
+<ul>
+    <li>Mis comidas favoritas
+        <ul>
+    <li>Pollo frito</li>
+    <li>Baleadas</li>
+    <li>Tortillas con quesillo
+        <li>Hmaburguesa</li>
+        <li>Pupusas</li>
+
+</ul>
+</li>
+<li>Actividades que me gustan<ol>
+    <li>Jugar</li>
+    <li>Trabajar</li>
+    <li>Escuchar musica</li>
+    <li>Ver series</li>
+    <li>Comer</li>
+
+</ol>
+</li>
+
+
+</html>
